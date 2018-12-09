@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocietyWidget</string>
+    <string name="appwidget_text">お前は今日何をした？</string>
+    <string name="add_widget">Add widget</string>
+</resources>
